@@ -1,4 +1,4 @@
-# java-week-api
+# Java Week API
 Projeto desenvolvido durante a JavaWeek da LinuxTips
 
 
